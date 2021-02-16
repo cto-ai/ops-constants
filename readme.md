@@ -6,7 +6,7 @@
 
 This is a native ESM module.
 
-See (`index.js`)(blob/main/index.js) for exported constants.
+See [`index.js`](index.js) for exported constants.
 
 ## Engines
 
