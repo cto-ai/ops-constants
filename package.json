@@ -1,6 +1,6 @@
 {
   "name": "@cto.ai/ops-constants",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cto.ai keycloak library",
   "main": "index.js",
   "type": "module",
